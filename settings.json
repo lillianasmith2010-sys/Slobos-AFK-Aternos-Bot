@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tk77883.aternos.me:11844",
+    "ip": "Tk77883.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
